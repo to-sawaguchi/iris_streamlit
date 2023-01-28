@@ -1,0 +1,20 @@
+Anaconda Promptから streamlit hello はできた
+環境変数（ユーザ・システム）にstreamline.exeのパスを登録した
+
+Anaconda：Python　3.9.13
+
+Microsoft Store Python 3.10.9
+C:\Users\brn-t\AppData\Local\Microsoft\WindowsApps\python.exe
+
+C:\Users\brn-t\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts\streamlit.exe
+
+Microsoft Store からPythonをインストール
+PowerShell　で以下インストールを実施
+pip install numpy
+pip install pandas
+pip install streamlit
+
+
+%USERPROFILE%\AppData\Local\Temp
+
+%USERPROFILE%\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts\streamlit.exe
